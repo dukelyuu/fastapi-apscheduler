@@ -1,4 +1,4 @@
-# fastapi with apscheduler
+# fastapi with apscheduler 实现任务调度服务，不用 rpc模式
 ```
 项目模板
 ```
