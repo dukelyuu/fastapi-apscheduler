@@ -1,0 +1,12 @@
+Click==7.0
+fastapi==0.63.0
+uvicorn
+databases
+loguru
+requests
+tenacity
+pytz
+apscheduler
+six
+redis
+pybase64
