@@ -1,4 +1,4 @@
-# fastapi with apscheduler 实现任务调度服务，不用 rpc模式
+# fastapi with apscheduler 实现python 任务调度服务 ,默认用RedisJobStore
 ```
 项目模板
 ```
